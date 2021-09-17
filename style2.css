@@ -1,0 +1,17 @@
+.h3n {
+    align-self: right;
+}
+.h3n1 {
+    align-self: right;
+}
+body {
+    background: url("round-window-with-flower-background-.jpg");
+}
+#output{
+    background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
